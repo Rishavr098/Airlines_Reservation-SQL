@@ -1,2 +1,2 @@
-# Airlines_Reservation-SQL
-SQL-based Airlines Reservation System repository for managing flight schedules, seat availability, and passenger bookings in the airline industry
+# Mobile_Shop-SQL
+SQL-based Mobile-Shop for browsing through different prices of mobile.
